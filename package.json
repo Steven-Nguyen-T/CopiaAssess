@@ -1,0 +1,23 @@
+{
+  "name": "copiaassess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steven-Nguyen-T/CopiaAssess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steven-Nguyen-T/CopiaAssess/issues"
+  },
+  "homepage": "https://github.com/Steven-Nguyen-T/CopiaAssess#readme"
+}
